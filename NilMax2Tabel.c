@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    int n; // jumlah elemen dalam tabel
+    int n;
     printf("Masukkan jumlah elemen dalam tabel: ");
     scanf("%d", &n);
 
